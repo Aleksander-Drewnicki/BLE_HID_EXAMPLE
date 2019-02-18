@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BLE_HID_EXAMPLE</string>
+    <string name="saved_force_bond">Saved_Force_Bond</string>
+    <string name="saved_enable_consumer">Saved_Enable_Consumer</string>
+    <string name="saved_enable_mouse">Saved_Enable_Mouse</string>
+    <string name="saved_enable_keyboard">Saved_Enable_Keyboard</string>
+    <string name="saved_basic_mode">Saved_Basic_Mode</string>
+    <string name="app_name_prefs">BLE_HID_EXAMPLE_prefs</string>
+    <string name="configuration">Configuration</string>
+    <string name="d_pad">D-Pad</string>
+    <string name="mouse">Mouse</string>
+    <string name="consumer_control">Consumer control</string>
+    <string name="force_pairing">Force pairing</string>
+    <string name="enter_text">Enter text</string>
+    <string name="music_player_control">Music/Player control</string>
+    <string name="basic_mode">Basic mode</string>
+    <string name="send_text">Send text</string>
+    <string name="send_single_character">Send Single Character</string>
+    <string name="consumer">Consumer</string>
+    <string name="keyboard_on">Keyboard On</string>
+    <string name="keyboard_off">Keyboard Off</string>
+    <string name="reboot_application">Reboot application</string>
+    <string name="device_not_connected">Device not connected</string>
+    <string name="volume_control">Volume control</string>
+    <string name="list_of_connected_devices">List of connected devices</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="brightness_control">Brightness control</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="system_control">System Control</string>
+    <string name="application_launch">Application Launch</string>
+    <string name="application_control">Application Control</string>
+</resources>
